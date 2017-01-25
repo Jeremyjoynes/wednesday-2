@@ -1,0 +1,18 @@
+{
+  "name": "wednesday-2",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Jeremy Joynes <jeremyajoynes@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/Jeremyjoynes/wednesday-2",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
